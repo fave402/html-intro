@@ -1,0 +1,92 @@
+/* Style the books section heading */
+h2 em {
+    color: #4a90e2;
+    font-size: 1.5em;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+/* Style the description paragraph */
+.books-desc {
+    color: #333;
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}
+
+/* Style the books list */
+.books-list {
+    background: #f0f8ff;
+    border-radius: 8px;
+    padding: 15px 25px;
+    width: fit-content;
+    box-shadow: 0 2px 8px rgba(74, 144, 226, 0.1);
+}
+
+.books-list li {
+    margin-bottom: 8px;
+    font-size: 1.05em;
+    color: #222;
+}
+
+
+
+/* Style the movies section heading */
+h2 em {
+    color: #4a90e2;
+    font-size: 1.5em;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+/* Style the description paragraph */
+.movies-desc {
+    color: #333;
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}
+
+/* Style the books list */
+.movies-list {
+    background: #f0f8ff;
+    border-radius: 8px;
+    padding: 15px 25px;
+    width: fit-content;
+    box-shadow: 0 2px 8px rgba(74, 144, 226, 0.1);
+}
+
+.movies-list li {
+    margin-bottom: 8px;
+    font-size: 1.05em;
+    color: #222;
+}
+
+
+/* Style the songs section heading */
+h2 em {
+    color: #4a90e2;
+    font-size: 1.5em;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+/* Style the description paragraph */
+.songs-desc {
+    color: #333;
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}
+/* Style the songs list */
+.songs-list {
+    background: #f0f8ff;
+    border-radius: 8px;
+    padding: 15px 25px;
+    width: fit-content;
+    box-shadow: 0 2px 8px rgba(74, 144, 226, 0.1);
+}
+.songs-list li {
+    margin-bottom: 8px;
+    font-size: 1.05em;
+    color: #222;
+}
