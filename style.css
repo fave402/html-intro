@@ -90,3 +90,14 @@ h2 em {
     font-size: 1.05em;
     color: #222;
 }
+
+/* Style the footer */
+.footer {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f9fa;
+    border-top: 1px solid #dee2e6;
+}
